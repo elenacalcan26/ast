@@ -28,7 +28,7 @@ In implementare m-am folosit de 3 functii: <br/>
 	‣ legatura dintre nodul sursa si nodul copil se face prin mutarea adresei a
 	nodului copil la valoarea adresei a nodului parinte catre care pointeaza <br/><br/> 
 
-3. iocla_atoi <br/><br/>
+3. iocla_atoi <br/>
 
 	‣ functia converteste un string in integer <br/>
 	‣ la inceput verific daca se converteste un numar pozitiv sau negativ si ii
