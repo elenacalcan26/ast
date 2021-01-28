@@ -4,7 +4,7 @@
 
 Programul implementeaza un arbore sintactic abstract.
 In implementare m-am folosit de 3 functii: <br/>
-&emsp;&emsp;&emsp; &emsp;      		• create_tree <br/>
+&emsp;&emsp;&emsp;&emsp;      		• create_tree <br/>
 &emsp;&emsp;&emsp;&emsp;		• create_node <br/>
 &emsp;&emsp;&emsp;&emsp;		• iocla_atoi <br/>
          
