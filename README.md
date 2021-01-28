@@ -4,15 +4,15 @@
 
 Programul implementeaza un arbore sintactic abstract.
 In implementare m-am folosit de 3 functii: <br/>
-       	• create_tree <br/>
+:       	• create_tree <br/>
 	• create_node <br/>
 	• iocla_atoi <br/>
          
-1. create_tree <br/><br/>
+1. create_tree <br/>
 	
 	‣ apeleaza functia create_node <br/><br/>
 
-2. create_node <br/><br/>
+2. create_node <br/>
 
 	‣ primeste ca parametrii root-ul arborelui si string-ul citit <br/>
 	‣ functia intoarce arborele construit <br/>
