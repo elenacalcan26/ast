@@ -1,5 +1,5 @@
 # ast - README #
-Calcan Elena-Claudia
+Calcan Elena-Claudia 
 321CA
 
 Programul implementeaza un arbore sintactic abstract.
