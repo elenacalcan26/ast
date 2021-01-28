@@ -3,12 +3,11 @@
 321CA</h5>
 
 Programul implementeaza un arbore sintactic abstract.
-In implementare m-am folosit de 3 functii: <br/>
+In implementare m-am folosit de 3 functii: 
+       	• create_tree
+	• create_node
+	• iocla_atoi
          
-         - create_tree 
-         - create_node
-         - iocla_atoi
-
 1. create_tree
 	
 	‣ apeleaza functia create_node
