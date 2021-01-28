@@ -4,9 +4,9 @@
 
 Programul implementeaza un arbore sintactic abstract.
 In implementare m-am folosit de 3 functii: <br/>
-       	• create_tree <br/>
-	• create_node <br/>
-	• iocla_atoi <br/>
+\       	• create_tree <br/>
+\	• create_node <br/>
+\	• iocla_atoi <br/>
          
 1. create_tree <br/>
 	
